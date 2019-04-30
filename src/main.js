@@ -6,12 +6,12 @@ import firebase from 'firebase'
 
 require("firebase/firestore");
   var config = {
-    apiKey: "AIzaSyDaEF-xPWWByMr6pX2yf59bHpXrk6WNYsA",
-    authDomain: "real-time-chat-ka.firebaseapp.com",
-    databaseURL: "https://real-time-chat-ka.firebaseio.com",
-    projectId: "real-time-chat-ka",
-    storageBucket: "real-time-chat-ka.appspot.com",
-    messagingSenderId: "1052212858254"
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: ""
   };
   firebase.initializeApp(config);
 
